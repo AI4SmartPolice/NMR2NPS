@@ -31,15 +31,14 @@ The model leverages **contrastive pretraining with SMILES encodings**, combined 
 ---
 
 ## 📂 Repository Structure
+```plaintext
 ├── CL_train_data_sample.xlsx   # Sample dataset for contrastive learning pretraining
 ├── SFT_data_sample.xlsx        # Sample dataset for supervised fine-tuning
 ├── model_train.py              # Training code for NMR2NPS
 └── mix_cases_inference.py      # Inference script for mixture detection
 
-
-
 ⚠️ **Note:** To access the **full dataset** used in our study, please visit:  
 👉 [Complete Dataset Link](XXX)  
-
+```
 
 
