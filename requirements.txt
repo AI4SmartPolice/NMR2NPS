@@ -1,0 +1,12 @@
+matplotlib==3.9.0
+matplotlib-inline==0.1.7
+numpy==1.26.4
+pandas==2.2.3
+rdkit==2024.9.6
+scikit-learn==1.6.1
+scipy==1.15.2
+sentencepiece==0.2.0
+tokenizers==0.21.1
+torch @ http://download.pytorch.org/whl/cu118/torch-2.1.2%2Bcu118-cp310-cp310-linux_x86_64.whl
+torchvision @ http://download.pytorch.org/whl/cu118/torchvision-0.16.2%2Bcu118-cp310-cp310-linux_x86_64.whl
+transformers==4.51.3
